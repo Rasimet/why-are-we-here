@@ -6,8 +6,6 @@ II. Learning to Code Improves Communication with Developers and Helps Designs Ge
 
 III. Learning to Code Helps Designers Judge What Is Feasible and Makes Design More Reasonable
 
-IV. How the Two Arguments Work Together
+IV. Learning to Code enables designers to quickly create simple prototypes to verify their designs.
 
-V. Counterargument
-
-VI. Conclusion
+V. Conclusion
