@@ -1,0 +1,1 @@
+First, I input my main ideas into the AI and asked it to generate an outline for me.
