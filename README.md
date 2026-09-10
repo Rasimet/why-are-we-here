@@ -14,6 +14,8 @@ IV. Learning to Code enables designers to quickly create simple prototypes to ve
 
 V. Conclusion
 
-Feng, K. J. K., Li, T. W., & Zhang, A. X. (2023). Understanding collaborative practices and tools of professional UX practitioners in software organizations. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1–20). ACM. https://doi.org/10.1145/3544548.3581273
+## References
 
-Maudet, N., Leiva, G., Beaudouin-Lafon, M., & Mackay, W. E. (2017). Design breakdowns: Designer-developer gaps in representing and interpreting interactive systems. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 630–641). ACM. https://doi.org/10.1145/2998181.2998190
+[1]Feng, K. J. K., Li, T. W., & Zhang, A. X. (2023). Understanding collaborative practices and tools of professional UX practitioners in software organizations. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1–20). ACM. https://doi.org/10.1145/3544548.3581273
+
+[2]Maudet, N., Leiva, G., Beaudouin-Lafon, M., & Mackay, W. E. (2017). Design breakdowns: Designer-developer gaps in representing and interpreting interactive systems. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 630–641). ACM. https://doi.org/10.1145/2998181.2998190
