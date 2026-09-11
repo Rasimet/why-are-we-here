@@ -14,7 +14,11 @@ If you do not learn to code, you may design things that look brilliant on a boar
 
 ## IV. Learning to Code enables designers to quickly create simple prototypes to verify their designs.
 
+Learning to code also gives designers a faster way to test whether a design actually works in use. A static mock-up can show how a screen looks, but it cannot fully show how it feels to click, wait, fail, recover, or move through a real flow. Once you can build even a simple coded prototype, you can put the idea into someone’s hands—including your own—and see what breaks. Voisen (n.d.) argues that there are many things designers cannot learn about their designs without a working prototype, and that click-through prototypes made in design tools are often not enough. High-fidelity prototypes written in code, he notes, help teams catch expensive mistakes before production and explore what the technology can and cannot do. Gathani (n.d.) describes the same loop in practice: a rough coded prototype is built, the designer sits in the user’s seat, problems appear, the design is revised, and the cycle repeats. The point is not to write production software. It is to fail early, on a small scale, so that you know what needs to change before the design is treated as finished.
+
 ## V. Conclusion
+
+So why are we here? Not to replace programmers, and not to stop at a finished mock-up. We are here because a design is not complete when it looks right on a board. It is complete when it can be discussed, built, tested, and revised. Learning to code is one way of staying inside that process. First, it gives us a shared language with developers, so that a proposal is less likely to be misunderstood, rewritten in silence, or pulled into a strange direction. Second, it helps us judge what is feasible: we can catch the outrageous ideas before they leave the studio, and keep our ambition inside what can actually be made. Third, it lets us build simple prototypes quickly, put the design into use, and see what needs to change while change is still cheap. These three reasons answer the same question from different sides. We learn to code so that we can communicate, so that we can design reasonably, and so that we can verify what we have made. That is why we, as designers, are here: not only to invent an experience, but to help it become real.
 
 ## References
 
@@ -25,3 +29,7 @@ If you do not learn to code, you may design things that look brilliant on a boar
 [3]Babich, N. (2022, November 17). Why you shouldn’t search for a product designer at Dribbble. UX Planet. https://uxplanet.org/why-you-shouldnt-search-for-a-product-designer-at-dribbble-7458f41b454
 
 [4]Stevens, E. (2021, August 5). Should designers learn to code? [Spoiler alert: Yes!]. CareerFoundry. https://careerfoundry.com/en/blog/ux-design/why-should-designers-learn-to-code/
+
+[5]Gathani, S. (n.d.). The unique value prototyping brings to the design process. Adobe Design. https://adobe.design/ideas/the-unique-value-prototyping-brings-to-the-design-process
+
+[6]Voisen, S. (n.d.). Should you pursue a career in design engineering? Adobe Design. https://adobe.design/ideas/should-you-pursue-a-career-in-design-engineering

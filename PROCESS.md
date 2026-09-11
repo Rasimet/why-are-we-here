@@ -9,3 +9,7 @@ I wrote the introduction part and use AI to improve and translate it.
 ## Part.II ~ Part.IV
 
 I combined my intern experience to talk about the opinion, and find some references through AI searching. And finally I asked AI to translate them.
+
+## Part.V
+
+Use AI to summarize my all opinions.
